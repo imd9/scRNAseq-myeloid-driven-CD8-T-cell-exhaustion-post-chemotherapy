@@ -6,5 +6,5 @@ Due to system memory limitations and time constraints, I was unable to complete 
 I will revist this case study for completion once memory upgrades have been made. 
 
 References:
-  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266577
-  https://www.cell.com/cancer-cell/fulltext/S1535-6108(24)00440-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1535610824004409%3Fshowall%3Dtrue
+  - https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE266577 <br>
+  - https://www.cell.com/cancer-cell/fulltext/S1535-6108(24)00440-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1535610824004409%3Fshowall%3Dtrue
